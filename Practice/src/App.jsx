@@ -1,6 +1,6 @@
 import Demo from "./Components/Demo"
 
-
+import "./App.css";
 
 function App() {
   
